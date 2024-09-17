@@ -32,3 +32,10 @@ Thanks to the Power BI community for support.
 
 ## Screenshots
 
+
+![Screenshot (100)](https://github.com/user-attachments/assets/d7f5e6dd-9196-4ec5-af57-3317ac0e039d)
+
+
+
+![Screenshot (101)](https://github.com/user-attachments/assets/ed090bd2-0c72-4b46-8301-a655ac01f5fe)
+
